@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.cash-withdrawal {
+  /* Add your styles here */
+  background-color: #150b3e;
+}
+.heading {
+  color: #585076;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.description {
+  color:  #585076;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
